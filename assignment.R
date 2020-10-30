@@ -17,3 +17,6 @@ data_frame <- as.data.frame(data_list)
 new_data <- as.data.frame(data_list)
 
 save(data_frame, new_data, file = "output.rda")
+
+
+#
